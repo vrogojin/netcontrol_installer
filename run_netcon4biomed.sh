@@ -1,4 +1,4 @@
-git clone http://vrogojin@combio.abo.fi/scm/git/netcontrol_docker 	net_con_docker
+git clone https://github.com/vrogojin/netcontrol_docker.git net_con_docker
 if [ $? -eq 0 ]; then
     echo NETCONTROL4BIOMED DOCKER CONTAINERS CLONED!
 else
